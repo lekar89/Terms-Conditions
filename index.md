@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
     <html>
     <head>
       <meta charset='utf-8'>
@@ -113,4 +113,4 @@
                   <a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a></p>
     </body>
     </html>
-      
+     
