@@ -113,4 +113,4 @@
                   <a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a></p>
     </body>
     </html>
-     
+      
